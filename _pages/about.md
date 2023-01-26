@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "UC Collaborative for AI-enabled Materials Exploration and Optimization (UC-CAMEO)"
+title: "This is a title :)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome :) 
+Welcome :) More introduction is coming soon...
