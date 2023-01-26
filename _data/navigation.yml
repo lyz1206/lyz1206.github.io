@@ -8,9 +8,4 @@ main:
         
   - title: "Example Code"
     url: /example-code/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
