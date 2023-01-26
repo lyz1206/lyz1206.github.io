@@ -1,5 +1,5 @@
 ---
-title: ["Parallel partial Gaussian process emulation for computer models with massive output"](http://academicpages.github.io/files/paper1.pdf)
+title: "Parallel partial Gaussian process emulation for computer models with massive output"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
