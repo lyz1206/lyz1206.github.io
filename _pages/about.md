@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome :) More introduction is coming soon...
+Welcome :) 
