@@ -8,7 +8,7 @@ venue: 'the Annals of Statistics'
 paperurl: 'https://www.jstor.org/stable/pdf/26542892.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-
+Author: Mengyang Gu, Xiaojing Wang, James O. Berger
 
 [PDF](https://www.jstor.org/stable/pdf/26542892.pdf)
 [CODE](https://www.jstor.org/stable/pdf/26542892.pdf)
