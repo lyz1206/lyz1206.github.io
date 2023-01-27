@@ -1,7 +1,0 @@
----
-title: "Mengyang Gu"
-excerpt: "Mengyang Gu joined the Department of Statistics and Applied Probability at the University of California, Santa Barbara as an assistant professor in 2019. Prior to this appointment, he received his bachelor's degree at Zhejiang University in 2012 and doctorate at Duke University in 2016. He worked as an assistant research professor in the Department of Applied Mathematics and Statistics at Johns Hopkins University from 2016 to 2019.<br/><img src='/images/mengyang_gu.png' width='200' height='200' align='left'>"
-collection: portfolio
----
-
-[Personal Website](https://sites.google.com/site/michaelmengyanggu)
