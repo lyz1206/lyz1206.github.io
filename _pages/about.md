@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the page of *UC Collaborative for AI-enabled Materials Exploration and Optimization*. 
+Welcome to the page of **UC Collaborative for AI-enabled Materials Exploration and Optimization**. 
 
 
 ### News
