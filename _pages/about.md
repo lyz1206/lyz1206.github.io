@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-# UC Collaborative for AI-enabled Materials Exploration and Optimization
+## UC Collaborative for AI-enabled Materials Exploration and Optimization
 
 ### News
 - News 1
