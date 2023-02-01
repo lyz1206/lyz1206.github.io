@@ -5,7 +5,12 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
-        
+    
+  - title: "Team"
+    url: /team/
+
   - title: "Example Code"
     url: /example-code/
+  
+  
 
